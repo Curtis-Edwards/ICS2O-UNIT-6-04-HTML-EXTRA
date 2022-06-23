@@ -30,7 +30,7 @@
 
 
   // process
-  const area = ((sideA + sideB) / 2) * height
+  const area = sideA + sideB + sideC + sideD
   const dimensions = "<ul>\n<li>a side = " + sideA + "</li>\n<li>b side = " + sideB + "</li>\n<li>c side = " + sideC + "</li>\n<li>d side = " + sideD + "</li>\n</ul>"
 
   // output
