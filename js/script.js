@@ -25,8 +25,8 @@
   // input
   const sideA = parseInt(params.get('a'))
   const sideB = parseInt(params.get('b'))
-  const sideC = parseInt(params.get('C'))
-  const sideD = parseInt(params.get('D'))
+  const sideC = parseInt(params.get('c'))
+  const sideD = parseInt(params.get('d'))
 
 
   // process
